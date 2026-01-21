@@ -1,0 +1,6 @@
+Name: Olubadejo Folajuwon
+Matric Number: 23CG034128
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method: Joblib
+Live Application URL: https://your-app-name.streamlit.app
+GitHub Repository Link: https://github.com/yourusername/HousePrice_Project
